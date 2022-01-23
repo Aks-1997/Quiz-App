@@ -1,0 +1,33 @@
+.correct{
+    color: green;
+}
+
+.wrong{
+    color: red;
+}
+
+.answer{
+    display: flex;
+}
+
+.heading{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.Resultsection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.wrapper{
+    background-color: blanchedalmond;
+}
+
+.result{
+    display: flex;
+    flex-direction: row;
+    font-weight: 600;
+    font-size: 16px;
+}

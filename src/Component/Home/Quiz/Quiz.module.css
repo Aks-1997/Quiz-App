@@ -1,0 +1,9 @@
+.quiz{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button{
+    width: fit-content;
+}

@@ -1,0 +1,25 @@
+.quizborder{
+    border-right: 1px solid black;
+}
+
+.home{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.quizwrapper{
+    height: inherit;
+}
+
+.quiz{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media only screen and (max-width:576px)
+{
+    .quizborder{
+        border-bottom: 1px solid black;
+    }
+}
